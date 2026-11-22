@@ -1,6 +1,6 @@
-# 4S BMS - Hücre İzleme Ünitesi (CMU)
+# 4S BMS - CMU
 
-4 seri (4S) LiFePO4 batarya paketi (~12.8 V) için **BQ76952 + STM32** tabanlı Hücre İzleme Ünitesi (CMU) tasarım ve simülasyon projesi.
+4 seri LiFePO4 batarya paketi (~12.8 V) için **BQ76952 + STM32** tabanlı Hücre İzleme Ünitesi (CMU) tasarım ve simülasyon projesi.
 
 - **Capstone 1:** MATLAB/Simulink üzerinde 4S LiFePO4 modelleme, sensör gürültüsü/offset modeli, pasif dengeleme ve senaryo testleri.
 - **Capstone 2:** Özel PCB tasarımı (BQ76952 + STM32G4, I2C + USB/UART), gerçek ölçümler ve simülasyon-ölçüm karşılaştırması.
