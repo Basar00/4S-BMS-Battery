@@ -1,4 +1,4 @@
-# 4S $\text{LiFePO}_4$ Hücre İzleme Birimi (CMU / BMS) — MATLAB/Simulink & Donanım Projesi
+# 4S $\text{LiFePO}_4$ Hücre İzleme Birimi (CMU / BMS) MATLAB/Simulink & Donanım Projesi
 
 Bu repo, 4 seri bağlı (4S) $\text{LiFePO}_4$ batarya paketi için geliştirilen **Hücre İzleme ve Yönetim Birimi (CMU/BMS)** bitirme projesinin (Capstone) MATLAB/Simulink (Simscape) modelini, test senaryolarını ve donanım yol haritasını içerir.
 
