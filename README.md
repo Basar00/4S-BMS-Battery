@@ -7,10 +7,10 @@
 
 ## Klasörler
 
-- `Kodlar/` — 4S LiFePO4 MATLAB model ve senaryo scriptleri
-- `Simulink/` — Simulink/Simscape `.slx` modelleri
-- `Kaynak/` — Proje proposal dosyası, kılavuz ve referans makaleler
-- `Sonuclar/` — Grafik çıktıları
+- `Kodlar/` - 4S LiFePO4 MATLAB model ve senaryo scriptleri
+- `Simulink/` - Simulink/Simscape `.slx` modelleri
+- `Kaynak/` - Proje proposal dosyası, kılavuz ve referans makaleler
+- `Sonuclar/` - Grafik çıktıları
 
 ## Test Senaryoları
 
@@ -45,4 +45,4 @@ Grafikler otomatik olarak `Sonuclar/` klasörüne kaydedilir.
 ## Ekip
 
 - **Başar Yıldırım** & **Necati Ahmet Tanrıverdi**  
-- **Danışman:** Doç. Dr. Selma Özaydın — İstinye Üniversitesi EEE401/402
+- **Danışman:** Doç. Dr. Selma Özaydın - İstinye Üniversitesi EEE401/402
