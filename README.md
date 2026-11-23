@@ -10,7 +10,7 @@
 - `Kodlar/` — 4S LiFePO4 MATLAB model ve senaryo scriptleri
 - `Simulink/` — Simulink/Simscape `.slx` modelleri
 - `Kaynak/` — Proje proposal dosyası, kılavuz ve referans makaleler
-- `Sonuclar/` — Kodların ürettiği grafik çıktıları
+- `Sonuclar/` — Grafik çıktıları
 
 ## Test Senaryoları
 
